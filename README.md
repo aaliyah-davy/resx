@@ -18,3 +18,10 @@ Some of the major roadblocks I faced ultimately determined my approach:
 - cv2 Contours helped identify figures in doc image but not modern/small/medium tables —> acquiring table bounding boxes was time-intensive
 - Text-To-Image required a GPU (which I don’t have) —> relied on Google Colab’s free TPU for that segment
 
+
+
+https://github.com/aaliyah-davy/resx/assets/134621145/02972449-e0da-4da2-a218-4873944d6854
+
+https://github.com/aaliyah-davy/resx/assets/134621145/53c84631-34e1-4032-a8b1-2844d79a3c2d
+
+

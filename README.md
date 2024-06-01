@@ -20,8 +20,6 @@ Some of the major roadblocks I faced ultimately determined my approach:
 
 
 
-https://github.com/aaliyah-davy/resx/assets/134621145/02972449-e0da-4da2-a218-4873944d6854
 
-https://github.com/aaliyah-davy/resx/assets/134621145/53c84631-34e1-4032-a8b1-2844d79a3c2d
-
+https://github.com/aaliyah-davy/resx/assets/134621145/9d574add-ad1d-415c-a970-ba422f8ad53b
 

@@ -1,8 +1,8 @@
 # Res-X
-### research paper pdf --> video (ai image + text-to-speech)
+### research paper pdf ——> video (ai image + text-to-speech)
 
 ## Usage
-Upload a PDF document and Res-X will generate a video. Works with papers that have LaTex-generated formulas.  (URL input options coming soon.)
+Upload a PDF document and Res-X will generate a video. Works with papers that have LaTex-generated formulas. (URL input options coming soon.)
 
 It’s specifically made with researchers and students in mind due to the overwhelming expectation that they constantly stay up-to-date with new papers without enough time to read/parse everything. It may be particularly helpful for papers from an industry that the user is unfamiliar with, or for people who are visual learners/processors.
 

@@ -4,14 +4,13 @@
 ### Example with my paper's abstract:
 https://github.com/aaliyah-davy/resx/assets/134621145/9d574add-ad1d-415c-a970-ba422f8ad53b
 
-Fu C, Davy A, Holmes S, Sun S, Yadav V, et al. (2021) Dynamic genome plasticity during unisexual reproduction in the human fungal pathogen Cryptococcus deneoformans. PLOS Genetics 17(11): e1009935. https://doi.org/10.1371/journal.pgen.1009935
-https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1009935
+Fu C, Davy A, Holmes S, Sun S, Yadav V, et al. (2021) Dynamic genome plasticity during unisexual reproduction in the human fungal pathogen Cryptococcus deneoformans. PLOS Genetics 17(11): e1009935. https://doi.org/10.1371/journal.pgen.1009935 
 
 
 Res-X (Research Explanation) is a project that turns research papers into videos. It implements three types of Machine Learning models: Optical Character Recognition (Tesseract & LaTex OCR), Text-To-Speech, and Text-To-Image (StableDiffusion). 
 
 ## Requirements
-scipy, gets, torch, TTS, ffmpeg, movie-you.editor, diffusers, os, requests, imgkit, io, sys, pdf2image, fake_useragent, re, cv2, math, string, imutils, numpy, regex, PIL, pandas, statistics, pytesseract, pix2tex, itertools, IPython, matplotlib
+scipy, gets, torch, TTS, ffmpeg, moviepy.editor, diffusers, os, requests, imgkit, io, sys, pdf2image, fake_useragent, re, cv2, math, string, imutils, numpy, regex, PIL, pandas, statistics, pytesseract, pix2tex, itertools, IPython, matplotlib
 
 ## Usage
 Upload a PDF document and Res-X will generate a video. Works with papers that have LaTex-generated formulas.  (URL input options coming soon.)

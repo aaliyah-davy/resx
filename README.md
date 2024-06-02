@@ -10,7 +10,7 @@ Fu C, Davy A, Holmes S, Sun S, Yadav V, et al. (2021) Dynamic genome plasticity 
 Res-X (Research Explanation) is a project that turns research papers into videos. It implements three types of Machine Learning models: Optical Character Recognition (Tesseract & LaTex OCR), Text-To-Speech, and Text-To-Image (StableDiffusion). 
 
 ## Requirements
-scipy, gets, torch, TTS, ffmpeg, moviepy.editor, diffusers, os, requests, imgkit, io, sys, pdf2image, fake_useragent, re, cv2, math, string, imutils, numpy, regex, PIL, pandas, statistics, pytesseract, pix2tex, itertools, IPython, matplotlib
+scipy, torch, TTS, ffmpeg, moviepy, diffusers, os, requests, imgkit, io, sys, pdf2image, fake_useragent, re, cv2, math, string, imutils, numpy, regex, PIL, pandas, statistics, pytesseract, pix2tex, itertools, IPython, matplotlib, fontTools
 
 ## Usage
 Upload a PDF document and Res-X will generate a video. Works with papers that have LaTex-generated formulas.  (URL input options coming soon.)

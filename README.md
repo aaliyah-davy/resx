@@ -19,7 +19,7 @@ Fu C, Davy A, Holmes S, Sun S, Yadav V, et al. (2021) Dynamic genome plasticity 
 
 
 ## Requirements
-scipy, torch, wkhtmltopdf, coqui-ai TTS, ffmpeg, moviepy, diffusers, os, requests, imgkit, io, sys, pdf2image, fake_useragent, re, cv2, math, string, imutils, numpy, regex, PIL, pandas, statistics, pytesseract, pix2tex, itertools, IPython, matplotlib, fontTools, LaTeX OCR, diffusers (hugginfface)
+scipy, torch, wkhtmltopdf, coqui-ai TTS, ffmpeg, moviepy, diffusers, os, requests, imgkit, io, sys, pdf2image, fake_useragent, re, cv2, math, string, imutils, numpy, regex, PIL, pandas, statistics, pytesseract, pix2tex, itertools, IPython, matplotlib, fontTools, LaTeX OCR, diffusers (huggingface)
 
 ## Reflection
 Some of the major roadblocks I faced ultimately determined my approach:
